@@ -22,7 +22,7 @@ import (
 	im "github.com/IBM/idemix/idemixmsp"
 	math "github.com/IBM/mathlib"
 	"github.com/golang/protobuf/proto"
-	m "github.com/hyperledger/fabric-protos-go/msp"
+	m "github.com/ZihuaZhang/fabric-protos-go/msp"
 	"github.com/pkg/errors"
 	"go.uber.org/zap/zapcore"
 )
