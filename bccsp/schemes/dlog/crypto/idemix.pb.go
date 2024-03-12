@@ -5,7 +5,7 @@ package idemix
 
 import (
 	fmt "fmt"
-	amcl "github.com/IBM/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
+	amcl "github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 	proto "github.com/golang/protobuf/proto"
 	math "math"
 )

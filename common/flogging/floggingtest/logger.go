@@ -13,8 +13,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/IBM/idemix/common/flogging"
-	"github.com/IBM/idemix/common/flogging/fabenc"
+	"github.com/ZihuaZhang/idemix/common/flogging"
+	"github.com/ZihuaZhang/idemix/common/flogging/fabenc"
 	"github.com/onsi/gomega/gbytes"
 	"go.uber.org/zap"
 	"go.uber.org/zap/buffer"

@@ -9,7 +9,7 @@ package flogging_test
 import (
 	"testing"
 
-	"github.com/IBM/idemix/common/flogging"
+	"github.com/ZihuaZhang/idemix/common/flogging"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/zap/zapcore"
 )

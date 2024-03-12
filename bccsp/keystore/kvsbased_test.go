@@ -11,11 +11,11 @@ import (
 	"os"
 	"testing"
 
-	"github.com/IBM/idemix/bccsp/handlers"
-	"github.com/IBM/idemix/bccsp/keystore/kvs"
-	"github.com/IBM/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 	bccsp "github.com/IBM/idemix/bccsp/types"
 	math "github.com/IBM/mathlib"
+	"github.com/ZihuaZhang/idemix/bccsp/handlers"
+	"github.com/ZihuaZhang/idemix/bccsp/keystore/kvs"
+	"github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 	"github.com/stretchr/testify/assert"
 )
 

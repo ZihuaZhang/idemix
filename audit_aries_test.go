@@ -10,7 +10,7 @@ import (
 	"testing"
 
 	bccsp "github.com/IBM/idemix/bccsp/types"
-	im "github.com/IBM/idemix/idemixmsp"
+	im "github.com/ZihuaZhang/idemix/idemixmsp"
 	"github.com/golang/protobuf/proto"
 	"github.com/stretchr/testify/assert"
 )

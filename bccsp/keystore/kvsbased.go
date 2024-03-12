@@ -9,11 +9,11 @@ package keystore
 import (
 	"encoding/hex"
 
-	"github.com/IBM/idemix/bccsp/handlers"
-	idemix "github.com/IBM/idemix/bccsp/schemes/dlog/crypto"
-	"github.com/IBM/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 	bccsp "github.com/IBM/idemix/bccsp/types"
 	math "github.com/IBM/mathlib"
+	"github.com/ZihuaZhang/idemix/bccsp/handlers"
+	idemix "github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto"
+	"github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 	"github.com/pkg/errors"
 )
 

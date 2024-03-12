@@ -19,7 +19,7 @@ import (
 	"reflect"
 
 	bccsp "github.com/IBM/idemix/bccsp/types"
-	"github.com/IBM/idemix/common/flogging"
+	"github.com/ZihuaZhang/idemix/common/flogging"
 	"github.com/pkg/errors"
 )
 

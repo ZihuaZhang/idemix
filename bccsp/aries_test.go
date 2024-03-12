@@ -11,11 +11,11 @@ import (
 	"os"
 	"path"
 
-	idemix "github.com/IBM/idemix/bccsp"
 	"github.com/IBM/idemix/bccsp/schemes/aries"
-	"github.com/IBM/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 	bccsp "github.com/IBM/idemix/bccsp/types"
 	math "github.com/IBM/mathlib"
+	idemix "github.com/ZihuaZhang/idemix/bccsp"
+	"github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 	"github.com/golang/protobuf/proto"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

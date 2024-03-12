@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/IBM/idemix/common/flogging/fabenc"
+	"github.com/ZihuaZhang/idemix/common/flogging/fabenc"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/zap"
 	"go.uber.org/zap/buffer"

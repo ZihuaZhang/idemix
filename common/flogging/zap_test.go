@@ -12,9 +12,9 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/IBM/idemix/common/flogging"
-	"github.com/IBM/idemix/common/flogging/fabenc"
-	"github.com/IBM/idemix/common/flogging/mock"
+	"github.com/ZihuaZhang/idemix/common/flogging"
+	"github.com/ZihuaZhang/idemix/common/flogging/fabenc"
+	"github.com/ZihuaZhang/idemix/common/flogging/mock"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

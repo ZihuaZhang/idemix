@@ -13,12 +13,12 @@ import (
 	"strings"
 	"testing"
 
-	imsp "github.com/IBM/idemix"
-	idemix "github.com/IBM/idemix/bccsp"
 	"github.com/IBM/idemix/bccsp/schemes/aries"
-	"github.com/IBM/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 	bccsp "github.com/IBM/idemix/bccsp/types"
 	math "github.com/IBM/mathlib"
+	imsp "github.com/ZihuaZhang/idemix"
+	idemix "github.com/ZihuaZhang/idemix/bccsp"
+	"github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 	"github.com/stretchr/testify/assert"
 )
 

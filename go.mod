@@ -1,4 +1,4 @@
-module github.com/IBM/idemix
+module github.com/ZihuaZhang/idemix
 
 go 1.19
 
@@ -22,6 +22,8 @@ require (
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 )
 
+require github.com/IBM/idemix v0.0.1
+
 require (
 	github.com/bits-and-blooms/bitset v1.7.0 // indirect
 	github.com/consensys/bavard v0.1.13 // indirect
@@ -29,6 +31,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/hyperledger/fabric-amcl v0.0.0-20230602173724-9e02669dceb2 // indirect
+	github.com/hyperledger/fabric-protos-go v0.0.0-20210911123859-041d13f0980c // indirect
 	github.com/kilic/bls12-381 v0.1.0 // indirect
 	github.com/mmcloughlin/addchain v0.4.0 // indirect
 	github.com/nxadm/tail v1.4.4 // indirect

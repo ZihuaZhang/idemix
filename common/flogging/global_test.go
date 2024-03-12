@@ -10,8 +10,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/IBM/idemix/common/flogging"
-	"github.com/IBM/idemix/common/flogging/mock"
+	"github.com/ZihuaZhang/idemix/common/flogging"
+	"github.com/ZihuaZhang/idemix/common/flogging/mock"
 	"github.com/stretchr/testify/require"
 )
 

@@ -9,12 +9,12 @@ package idemix
 import (
 	"testing"
 
-	idemix "github.com/IBM/idemix/bccsp/schemes/dlog/crypto"
-	amclt "github.com/IBM/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
-	im "github.com/IBM/idemix/idemixmsp"
 	math "github.com/IBM/mathlib"
-	"github.com/golang/protobuf/proto"
 	"github.com/ZihuaZhang/fabric-protos-go/msp"
+	idemix "github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto"
+	amclt "github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
+	im "github.com/ZihuaZhang/idemix/idemixmsp"
+	"github.com/golang/protobuf/proto"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/require"
 )

@@ -9,8 +9,8 @@ package idemix
 import (
 	"io"
 
-	amcl "github.com/IBM/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 	math "github.com/IBM/mathlib"
+	amcl "github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 )
 
 func appendBytes(data []byte, index int, bytesToAdd []byte) int {

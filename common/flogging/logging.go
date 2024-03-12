@@ -12,7 +12,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/IBM/idemix/common/flogging/fabenc"
+	"github.com/ZihuaZhang/idemix/common/flogging/fabenc"
 	zaplogfmt "github.com/sykesm/zap-logfmt"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

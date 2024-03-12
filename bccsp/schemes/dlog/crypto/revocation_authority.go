@@ -15,9 +15,9 @@ import (
 	"io"
 	"math/big"
 
-	amcl "github.com/IBM/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 	weakbb "github.com/IBM/idemix/bccsp/schemes/weak-bb"
 	math "github.com/IBM/mathlib"
+	amcl "github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 	"github.com/golang/protobuf/proto"
 	"github.com/pkg/errors"
 )

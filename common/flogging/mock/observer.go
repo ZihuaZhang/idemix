@@ -4,7 +4,7 @@ package mock
 import (
 	"sync"
 
-	"github.com/IBM/idemix/common/flogging"
+	"github.com/ZihuaZhang/idemix/common/flogging"
 	"go.uber.org/zap/zapcore"
 )
 

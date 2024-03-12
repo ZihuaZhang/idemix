@@ -9,7 +9,7 @@ package fabenc_test
 import (
 	"testing"
 
-	"github.com/IBM/idemix/common/flogging/fabenc"
+	"github.com/ZihuaZhang/idemix/common/flogging/fabenc"
 	"github.com/stretchr/testify/require"
 )
 

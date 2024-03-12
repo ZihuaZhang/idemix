@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/IBM/idemix/tools/idemixgen/metadata"
+	"github.com/ZihuaZhang/idemix/tools/idemixgen/metadata"
 	"github.com/stretchr/testify/require"
 )
 

@@ -14,9 +14,9 @@ import (
 	. "github.com/onsi/gomega"
 	"github.com/pkg/errors"
 
-	idemix "github.com/IBM/idemix/bccsp"
-	"github.com/IBM/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 	bccsp "github.com/IBM/idemix/bccsp/types"
+	idemix "github.com/ZihuaZhang/idemix/bccsp"
+	"github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
 )
 
 // NewDummyKeyStore instantiate a dummy key store

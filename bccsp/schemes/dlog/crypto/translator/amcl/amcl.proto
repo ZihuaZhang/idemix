@@ -8,7 +8,7 @@ syntax = "proto3";
 
 package amcl;
 
-option go_package = "github.com/IBM/idemix/bccsp/schemes/dlog/crypto/translator/amcl";
+option go_package = "github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto/translator/amcl";
 
 // The Identity Mixer protocols make use of pairings (bilinear maps) -
 // functions that can be described as e: G1 x G2 -> GT  that

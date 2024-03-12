@@ -24,11 +24,11 @@ import (
 	"github.com/pkg/errors"
 	"gopkg.in/alecthomas/kingpin.v2"
 
-	imsp "github.com/IBM/idemix"
-	idemix "github.com/IBM/idemix/bccsp/schemes/dlog/crypto"
-	"github.com/IBM/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
-	"github.com/IBM/idemix/tools/idemixgen/idemixca"
-	"github.com/IBM/idemix/tools/idemixgen/metadata"
+	imsp "github.com/ZihuaZhang/idemix"
+	idemix "github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto"
+	"github.com/ZihuaZhang/idemix/bccsp/schemes/dlog/crypto/translator/amcl"
+	"github.com/ZihuaZhang/idemix/tools/idemixgen/idemixca"
+	"github.com/ZihuaZhang/idemix/tools/idemixgen/metadata"
 )
 
 const (
